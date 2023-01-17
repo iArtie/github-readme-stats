@@ -63,7 +63,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `github_dark` ![github_dark][github_dark_repo] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple_repo] | `aura_dark` ![aura_dark][aura_dark_repo] |
 | `panda` ![panda][panda_repo] | `noctis_minimus` ![noctis_minimus][noctis_minimus_repo] | `cobalt2` ![cobalt2][cobalt2_repo] |
 | `swift` ![swift][swift_repo] | `aura` ![aura][aura_repo] | `apprentice` ![apprentice][apprentice_repo] |
-| `moltack` ![moltack][moltack_repo] | `codeSTACKr` ![codeSTACKr][codeSTACKr_repo] | `rose_pine` ![rose_pine][rose_pine_repo] |
+| `moltack` ![moltack][moltack_repo] | `codeSTACKr` ![codeSTACKr][codeSTACKr_repo] | `rose_pine` ![rose_pine][rose_pine_repo] | `Gardiend_bitz` ![Gardiend_bitz][Gardiend_bitz_repo]
 | [Add your theme][add-theme] | | |
 
 
@@ -128,7 +128,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [moltack]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moltack
 [codeSTACKr]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr
 [rose_pine]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=rose_pine
-
+[Gardiend_bitz]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=Gardiend_bitz
 
 [default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
 [default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
@@ -191,7 +191,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [moltack_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=moltack
 [codeSTACKr_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr
 [rose_pine_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine
-
+[Gardiend_bitz_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=Gardiend_bitz
 
 [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
 
