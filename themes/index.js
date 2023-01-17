@@ -374,6 +374,13 @@ export const themes = {
     border_color: "170F0C",
     bg_color: "170F0C",
   },
+Gradient_bitz: {
+    title_color: "ffffff",
+    text_color: "ffffff",
+    icon_color: "f9f9f9",
+    border_color: "904e95,e96443,30",
+    bg_color: "30,e96443,904e95",
+  }
 };
 
 export default themes;
